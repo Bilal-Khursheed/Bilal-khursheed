@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Bilal-Khursheed/Bilal-khursheed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 { email: bilal.khursheed617@gmail.com phoneNumber : +923435527709 } ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
