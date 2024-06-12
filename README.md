@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-I'm a seasoned Full Stack Developer with over 4+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
+I'm a seasoned Full Stack Developer with over 5+ years of hands-on experience in building cutting-edge applications and solutions. My passion lies in creating dynamic and user-friendly web products by leveraging a wide array of technologies and programming languages. I'm actively seeking challenging opportunities in the field of Full-stack Development.
 
 ## Experience 💼
 
