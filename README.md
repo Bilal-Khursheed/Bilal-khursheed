@@ -11,6 +11,14 @@ I'm a seasoned Full Stack Developer with over 5+ years of hands-on experience in
   - Architected the backend infrastructure with Nest.js, incorporating GIS queries for enhanced user experiences.
   - Worked on both modern Next.js and Nest.js stacks as well as PHP with CodeIgniter for multifaceted functionalities on Zoneomics.com.
 
+### Full Stack Developer at HomeRoyaltie
+- **Duration:** October 2023 - February 2025
+- **Responsibilities:**
+  - Led the development of the main product, HomeRoyaltie, handling the entire site backend and frontend single-handedly.
+  - Set up the project from scratch and integrated new modules such as cashflows, mortgages, and commissions.
+  - Implemented extensive calculations and business logic to ensure accurate data representation.
+  - Utilized React, Node.js, and MongoDB for building and maintaining a scalable and efficient application.
+
 ### Full Stack Developer at Gol Technologies
 - **Duration:** October 2021 - October 2022
 - **Responsibilities:**
@@ -68,6 +76,7 @@ I'm a seasoned Full Stack Developer with over 5+ years of hands-on experience in
 - 📱 WhatsApp: [+923435527709](https://wa.me/923435527709)
 - [Website](https://bilalkhursheed.com/)
 - [LinkedIn](https://www.linkedin.com/in/bilal-khursheed/)
+- [Upwork](https://www.upwork.com/freelancers/~01094986abb8ef2924)
 
 Feel free to reach out for collaborations, questions, or discussions about technology and development!
 
