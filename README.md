@@ -4,7 +4,7 @@ I'm a seasoned Full Stack Developer with over 6+ years of hands-on experience in
 
 ## Experience 💼
 
-### Full Stack Developer at Zoneomics (Magma System)
+### Full Stack Developer at Zoneomics
 - **Duration:** October 2022 - Present
 - **Responsibilities:**
   - Designed and developed public-facing website pages using Next.js.
